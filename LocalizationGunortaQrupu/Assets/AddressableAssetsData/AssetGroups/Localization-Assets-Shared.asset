@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 998839fcb241e34458ba23d5776736b8
+  m_SerializeEntries:
+  - m_GUID: c2355d9852f11204ba479dfdae120ef8
+    m_Address: Assets/LocalizationAssets/UITables/MainMenuButtonsTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: ae4db7c01151ae744a1b435109f4f5f6
+    m_Address: Assets/LocalizationAssets/SpriteTables/FlagsImage Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 59bcf7102a08d734dbe07395e30d2e5b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b72436ffb4131d647b1f090a2fb3b87a, type: 2}
+    - {fileID: 11400000, guid: 701d0b23adf7d154e9b2faf373fca93b, type: 2}

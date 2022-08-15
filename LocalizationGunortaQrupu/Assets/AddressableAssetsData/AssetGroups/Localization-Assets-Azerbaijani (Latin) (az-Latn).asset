@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Azerbaijani (Latin) (az-Latn)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Azerbaijani (Latin) (az-Latn)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 06cbf1c5949e3b44da67cd0f7b7f3d34
+  m_SerializeEntries:
+  - m_GUID: 071372150099a544391d89833aeb221b
+    m_Address: Flag_of_Azerbaijan
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-az-Latn
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 59bcf7102a08d734dbe07395e30d2e5b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dec42fcb35c612142b42dda7bc27d732, type: 2}
+    - {fileID: 11400000, guid: 10e64ad40b865c347a603f5919892238, type: 2}

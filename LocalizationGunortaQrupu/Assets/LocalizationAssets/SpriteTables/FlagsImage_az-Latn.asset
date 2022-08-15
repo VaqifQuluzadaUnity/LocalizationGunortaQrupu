@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: FlagsImage_az-Latn
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: az-Latn
+  m_SharedData: {fileID: 11400000, guid: ae4db7c01151ae744a1b435109f4f5f6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 286671331328
+    m_Localized: 071372150099a544391d89833aeb221b
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

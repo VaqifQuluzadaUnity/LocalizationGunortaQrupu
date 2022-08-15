@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Azerbaijani (Latin) (az-Latn)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Azerbaijani (Latin) (az-Latn)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1c54169dcf42fd747bb0e0cbac0b8964
+  m_SerializeEntries:
+  - m_GUID: 32e74b9a8b6ebe146bd36d56fc74ea89
+    m_Address: MainMenuButtonsTable_az-Latn
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-az-Latn
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 59bcf7102a08d734dbe07395e30d2e5b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9b5f9d964f7394242934d46003696e87, type: 2}
+    - {fileID: 11400000, guid: b7b29701ac053d04a9335c02948799f3, type: 2}
